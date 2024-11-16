@@ -18,9 +18,21 @@ The dataset used for this analysis contains detailed sales records, including in
 ### 1. Sales Performance Analysis
 - **Monthly and daily sales trends** were plotted to visualize revenue growth and seasonality.
 
+#### Daily sales
+![Daily Sales](./images/daily_sales.png)
+
+#### Monthly sales
+![Monthly Sales](./images/monthly_sales.png)
+
 
 ### 2. Product Performance Analysis
 - **Top products by revenue and quantity** were identified and plotted, showing which products contributed the most to overall sales.
+
+#### Top 10 products by revenue
+![Products by revenue](./images/top_by_revenue.png)
+
+#### Monthly sales
+![Products by quantity](./images/top_by_quantity.png)
 
 ### 3. Geographical Sales Analysis
 - **Regional sales trends** were examined to pinpoint the locations with the highest sales performance.
